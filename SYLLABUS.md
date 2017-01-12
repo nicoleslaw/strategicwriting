@@ -24,9 +24,7 @@ This course focuses on clarity of ideas, structure, and style over grammar and m
 
 ## Course requirements
 
-We will practice thinking and writing—together and individually—through conversation, writing exercises, and peer editing.
-
-Be prepared to:
+We will practice thinking and writing—together and individually—through conversation, writing exercises, and peer editing. Be prepared to:
 
 * Ask questions, take risks, and express yourself
 * Share rough ideas and unpolished drafts with the class
