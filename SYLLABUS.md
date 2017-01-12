@@ -40,4 +40,4 @@ Be prepared to:
 
 Grading is pass/fail and will be based on your participation and progress in class. Please be on time and be prepared to discuss the reading assignments each week.
 
-As this course is only five sessions, it’s important for you to be present and contribute to the conversation. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give my instructor advanced notice so you can keep up with the assignments. No late work will be accepted.
+As this course is only five sessions, it’s important for you to be present and contribute to the conversation. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructor advanced notice so you can keep up with the assignments. No late work will be accepted.
