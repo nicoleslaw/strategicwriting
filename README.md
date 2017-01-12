@@ -1,2 +1,3 @@
-# strategicwriting
-Writing for designers — course materials for SVA IXD thesis prep
+# Strategic writing
+
+Thesis prep for first-year SVA IXD students.
