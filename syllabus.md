@@ -1,3 +1,9 @@
+---
+layout: page
+title: Syllabus
+permalink: /syllabus/
+---
+
 # Strategic Writing
 
 SVA MFA Interaction Design, Spring 2016
