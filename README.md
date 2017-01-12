@@ -1,3 +1,3 @@
 # Strategic writing
 
-Thesis prep for first-year SVA IXD students.
+SVA MFA IXD - Spring 2017
