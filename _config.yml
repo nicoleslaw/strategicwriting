@@ -24,7 +24,7 @@ github_username:  nicoleslaw
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: minima
 gems:
   - jekyll-feed
 exclude:
