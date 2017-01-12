@@ -6,8 +6,7 @@ SVA MFA Interaction Design, Spring 2016
 
 Nicole Fenton  
 nfenton1@sva.edu  
-[nicolefenton.com](http://nicolefenton.com)  
-[@nicoleslaw](https://twitter.com/nicoleslaw)
+[nicolefenton.com](http://nicolefenton.com)
 
 Office hours by appointment
 
