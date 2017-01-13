@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Syllabus
-permalink: /syllabus/
 ---
 
-# Strategic Writing
-
-SVA MFA Interaction Design, Spring 2016
+_Working on this year’s syllabus, but here's the one from 2016._
 
 ## Instructor
 
@@ -17,6 +14,7 @@ nfenton1@sva.edu
 Office hours by appointment
 
 ## Course description
+
 Writing is part of every design project—from jotting down notes and questions to summarizing research, instructing users, and presenting work in proposals and marketing pages. In this course, we’ll examine the writing process, collaborate on long and short-form pieces, practice editing, and use language as a tool in the design process.
 
 This course focuses on clarity of ideas, structure, and style over grammar and mechanics.
@@ -38,6 +36,7 @@ We will practice thinking and writing—together and individually—through conv
 * Grapple with the subjectivity of language
 
 ## Required text
+
 [Several Short Sentences About Writing](http://www.penguinrandomhouse.com/books/93789/several-short-sentences-about-writing-by-verlyn-klinkenborg/9780307279415/), Verlyn Klinkenborg
 
 ## Grading and policies

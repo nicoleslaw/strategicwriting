@@ -1,24 +1,21 @@
 # About
-
 title: Strategic Writing
-tagline: SVA MFA IXD Spring 2017
-description: 
-url: "http://strategicwriting.club"
-author: 
+description: SVA MFA IXD Spring 2017
+url: http://strategicwriting.club
+author:
     name: Nicole Fenton
     email: nfenton1@sva.edu
     url: https://nicolefenton.com
+github:
+  repo:              https://github.com/nicoleslaw/strategicwriting
 
+# Dependencies
+markdown: kramdown
 
-# Settings
+baseurl:  "/"
 
-paginate: 1
-baseurl: ""
+# Permalinks
 permalink: pretty
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed
 
 gems:
   - jekyll-feed
@@ -27,3 +24,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+paginate:         5
