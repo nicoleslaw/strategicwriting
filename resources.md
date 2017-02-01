@@ -15,7 +15,6 @@ _Useful guides and resources to prepare you for the work ahead._
 * [Designing Case Studies: Showcasing a Human Centered Design Process](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/), Senongo Akpem
 * [If You Are Writing an Essay or a Thesis](https://medium.com/@chappelltracker/if-you-are-writing-an-essay-or-a-thesis-7e6e0eaeedef#.mo9vm7mka), Chappell Ellison
 * [Core Model: Designing from the Inside Out](http://alistapart.com/article/the-core-model-designing-inside-out-for-better-results), Ida Aalen
-* [Manifesto Project](http://www.manifestoproject.it/)
 * [Questions I Ask When Reviewing Design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
 
 ## Storytelling
