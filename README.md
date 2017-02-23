@@ -1,6 +1,6 @@
 ## Strategic Writing
 
-This is the source code for the site at http://strategicwriting.club, which is the course website for **IXG-5800-A Thesis 1: Thinking: Section 3: Strategic Writing**, a 5-week course taught by Nicole Fenton in the MFA Interaction Design Program at the School of Visual Arts.
+This is the source code for http://strategicwriting.club, the course website for **IXG-5800-A Thesis 1: Thinking: Section 3: Strategic Writing**. [Nicole Fenton](http://nicolefenton.com) teaches this 5-week course in the MFA Interaction Design Program at the School of Visual Arts.
 
 ### About the site
 
