@@ -18,7 +18,7 @@ _Useful guides and resources to prepare you for the work ahead._
 * [Core Model: Designing from the Inside Out](http://alistapart.com/article/the-core-model-designing-inside-out-for-better-results), Ida Aalen
 * [Questions I Ask When Reviewing Design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
 * [The Pitfalls of Trying to Read a Co-Worker’s Mind](https://www.nytimes.com/2016/12/29/business/the-pitfalls-of-trying-to-read-a-co-workers-mind.html), Isaac Lidsky
-* [Sharing Slow Ideas](http://www.newyorker.com/magazine/2013/07/29/slow-ideas), Atul Gawande
+* [Slow Ideas](http://www.newyorker.com/magazine/2013/07/29/slow-ideas), Atul Gawande
 
 ## Storytelling
 * [The Shape of Stories](https://vimeo.com/53286941), Kurt Vonnegut
