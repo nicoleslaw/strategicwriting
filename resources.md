@@ -11,6 +11,7 @@ _Useful guides and resources to prepare you for the work ahead._
 * [Write an About Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section), Nicole Fenton
 * [The Language of Modular Design](http://alistapart.com/article/language-of-modular-design), Alla Kholmatova
 * [A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), Ryan Singer
+* [On Writing Interfaces Well](https://signalvnoise.com/posts/3633-on-writing-interfaces-well), Jonas Downey
 * [You Are What You Document](http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/), Yevgeniy Brikman
 * [Designing Case Studies: Showcasing a Human Centered Design Process](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/), Senongo Akpem
 * [If You Are Writing an Essay or a Thesis](https://medium.com/@chappelltracker/if-you-are-writing-an-essay-or-a-thesis-7e6e0eaeedef#.mo9vm7mka), Chappell Ellison
