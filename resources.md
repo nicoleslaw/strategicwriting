@@ -5,7 +5,7 @@ title: Resources
 
 _Useful guides and resources to prepare you for the work ahead._
 
-## Essays and interviews
+## Writing basics
 * [Words as Material](http://nicolefenton.com/words-as-material/), Nicole Fenton
 * [Interface Writing: Code for Humans](http://nicolefenton.com/interface-writing/), Nicole Fenton
 * [Write an About Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section), Nicole Fenton
@@ -17,6 +17,8 @@ _Useful guides and resources to prepare you for the work ahead._
 * [If You Are Writing an Essay or a Thesis](https://medium.com/@chappelltracker/if-you-are-writing-an-essay-or-a-thesis-7e6e0eaeedef#.mo9vm7mka), Chappell Ellison
 * [Core Model: Designing from the Inside Out](http://alistapart.com/article/the-core-model-designing-inside-out-for-better-results), Ida Aalen
 * [Questions I Ask When Reviewing Design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
+
+## Design ethics
 * [The Pitfalls of Trying to Read a Co-Worker’s Mind](https://www.nytimes.com/2016/12/29/business/the-pitfalls-of-trying-to-read-a-co-workers-mind.html), Isaac Lidsky
 * [Slow Ideas](http://www.newyorker.com/magazine/2013/07/29/slow-ideas), Atul Gawande
 * [Investigating Normal: Technology and Ability](https://vimeo.com/134764010), Sara Hendren
