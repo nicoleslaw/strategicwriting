@@ -28,6 +28,7 @@ _Useful guides and resources to prepare you for the work ahead._
 
 ## Storytelling
 * [Ten Rules for Writing: Part 1](https://www.theguardian.com/books/2010/feb/20/ten-rules-for-writing-fiction-part-one) and [Part 2](https://www.theguardian.com/books/2010/feb/20/10-rules-for-writing-fiction-part-two), with Zadie Smith, Margaret Atwood, Neil Gaiman, and others
+* [The Danger of a Single Story](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story), Chimamanda Ngozi Adichie
 * [The Shape of Stories](https://vimeo.com/53286941), Kurt Vonnegut
 * [On Storytelling](https://www.youtube.com/watch?v=f6ezU57J8YI), Ira Glass
 * [On Story](https://vimeo.com/143732791), George Saunders
