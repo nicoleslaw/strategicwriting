@@ -121,9 +121,9 @@ Bring a blog post or essay you wrote in the past for discussion next week.
 
 #### Assignments
 * Continue developing your final project.
-* Look through past work and writing you enjoyed for themes
-* Gather 3–5 quotations or snippets of text for your final project
-* Talk to a classmate or friend about your piece to move your outline along
+* Look through past work and writing you enjoyed for themes.
+* Gather 3–5 quotations or snippets of text for your final project.
+* Talk to a classmate or friend about your piece to move your outline along.
 * Finish a rough first draft and bring it to class for discussion and peer editing.
 
 ### Week 4: Synthesis (April 18)
