@@ -27,6 +27,7 @@ _Useful guides and resources to prepare you for the work ahead._
 * [Software is Politics](https://www.fastcodesign.com/3066631/software-is-politics), adapted from [this talk](http://blog.memespring.co.uk/2016/11/23/oscon-2016/), Richard Pope
 
 ## Storytelling
+* [Ten Rules for Writing: Part 1](https://www.theguardian.com/books/2010/feb/20/ten-rules-for-writing-fiction-part-one) and [Part 2](https://www.theguardian.com/books/2010/feb/20/10-rules-for-writing-fiction-part-two), with Zadie Smith, Margaret Atwood, Neil Gaiman, and others
 * [The Shape of Stories](https://vimeo.com/53286941), Kurt Vonnegut
 * [On Storytelling](https://www.youtube.com/watch?v=f6ezU57J8YI), Ira Glass
 * [On Story](https://vimeo.com/143732791), George Saunders
