@@ -8,7 +8,7 @@ Section 3: Strategic Writing
 SVA MFA Interaction Design  
 Spring 2017
 
-*last edited February 22, 2017*
+*last edited March 5, 2017*
 
 ## Instructor
 
