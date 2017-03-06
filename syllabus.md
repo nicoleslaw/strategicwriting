@@ -74,7 +74,7 @@ Bring a blog post or essay you wrote in the past for discussion next week.
 #### Readings for next week
 * [Writing Basics](http://ptgmedia.pearsoncmg.com/images/9780321988195/samplepages/0321988191.pdf), Chapter 4 from [Nicely Said](http://www.nicelysaid.co), Nicole Fenton and Kate Kiefer Lee
 * [The Problem with White Liberal Designers](https://medium.com/@jenniferdaniel/the-problem-with-white-liberal-designers-1a8f8bdd6ead), Jennifer Daniel
-* [10 Timeframes](http://contentsmagazine.com/articles/10-timeframes/), Paul Ford
+* [What Writers Really Do When They Write](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write), George Saunders
 * [Copywriting is Interface Design](http://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php), Jason Fried
 
 ### Week 2: Voice and tone (April 4)
