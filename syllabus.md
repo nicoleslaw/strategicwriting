@@ -8,7 +8,7 @@ Section 3: Strategic Writing
 SVA MFA Interaction Design  
 Spring 2017
 
-*last edited March 5, 2017*
+*last edited March 17, 2017*
 
 ## Instructor
 
@@ -87,7 +87,7 @@ Bring a blog post or essay you wrote in the past for discussion next week.
 
 #### Readings for next week
 * [Corn Maze](http://hungermtn.org/corn-maze/), Pam Houston
-* [Guiding Principles for an Adaptive Technology Working Group](http://ablersite.org/2014/08/20/guiding-principles-for-an-adaptive-technology-working-group/), Sara Hendren
+* [Guidelines for an Adaptive Technology Working Group](http://aplusa.org/#manifesto), Sara Hendren
 * [Resistance](http://counterpractice.tumblr.com/), Paul Soulellis
 
 #### Assignments
