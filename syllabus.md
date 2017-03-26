@@ -48,7 +48,7 @@ We will practice thinking and writing—together and individually—through conv
 
 Grading is [pass/fail](http://interactiondesign.sva.edu/wiki/pmwiki.php/Site/GradingCriteria) and will be based on your attendance and participation in class. Please be on time and be prepared to discuss the reading assignments. As this course is only five sessions, it’s important for you to be present and open to contributing to the conversation each week.
 
-More than two unexcused absences constitute a failing grade. If you will be late or need to miss a class, reach out to me in advance so you can keep with the assignments. No late work will be accepted.
+More than two unexcused absences constitute a failing grade. If you will be late or need to miss a class, reach out to me in advance so you can keep up with the assignments. No late work will be accepted.
 
 ---
 
