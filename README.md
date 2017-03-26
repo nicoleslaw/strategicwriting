@@ -6,6 +6,6 @@ The site is published with [Jekyll](https://jekyllrb.com/) and the [Hyde theme](
 
 ### License
 
-The content on this site is copyright 2015-2017 Nicole Fenton. Referenced readings and quotations are attributed to their respective authors.
+The content on this site is copyright © 2015-2017 Nicole Fenton. Referenced readings and quotations are attributed to their respective authors.
 
 This work is available under an [Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
