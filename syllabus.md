@@ -8,7 +8,7 @@ Section 3: Strategic Writing
 SVA MFA Interaction Design  
 Spring 2017
 
-*last edited March 17, 2017*
+*last edited March 25, 2017*
 
 ## Instructor
 
@@ -48,9 +48,9 @@ We will practice thinking and writing—together and individually—through conv
 
 Grading is [pass/fail](http://interactiondesign.sva.edu/wiki/pmwiki.php/Site/GradingCriteria) and will be based on your attendance and participation in class. Please be on time and be prepared to discuss the reading assignments each week.
 
-As this course is only five sessions, it’s important for you to be on time and prepared to contribute to the conversation each week. More than two unexcused absences constitutes a failing grade.
+As this course is only five sessions, it’s important for you to be present and open to contributing to the conversation. More than two unexcused absences constitutes a failing grade.
 
-If you need to be late or miss a class, reach out to me in advance so you can keep with the assignments. No late work will be accepted.
+If you will be late or need to miss a class, reach out to me in advance so you can keep with the assignments. No late work will be accepted.
 
 ---
 
