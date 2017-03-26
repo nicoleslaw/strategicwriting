@@ -129,7 +129,7 @@ Bring a blog post or essay you wrote in the past for discussion next week.
 #### Activities
 * Reading discussion and warm-up exercise
 * Workshop your final project
-* Guest speaker: [Karyn Campbell](http://www.karyncampbell.com/), Product Design Lead at Etsy
+* Guest speaker: [Karyn Campbell](http://www.karyncampbell.com/), Product Design Lead for [Etsy Studio](https://www.etsy.com/studio)
 
 #### Readings for next week
 * [Designing Case Studies: Showcasing a Human Centered Design Process](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/), Senongo Akpem
@@ -143,3 +143,4 @@ Wrap up your final project.
 #### Activities
 * Reading discussion and warm-up exercise
 * Presentations and group critique
+* Guest speaker: [Tina Lee](http://www.yonderother.co/), Editor for [A Book Apart](http://www.abookapart.com/)
