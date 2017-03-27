@@ -5,7 +5,7 @@ title: Resources
 
 _Useful guides and resources to prepare you for the work ahead._
 
-## Writing basics
+## Writing and content design
 * [Words as Material](http://nicolefenton.com/words-as-material/), Nicole Fenton
 * [Interface Writing: Code for Humans](http://nicolefenton.com/interface-writing/), Nicole Fenton
 * [Write an About Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section), Nicole Fenton
@@ -13,6 +13,7 @@ _Useful guides and resources to prepare you for the work ahead._
 * [Core Model: Designing from the Inside Out](http://alistapart.com/article/the-core-model-designing-inside-out-for-better-results), Ida Aalen
 * [Designing Case Studies: Showcasing a Human Centered Design Process](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/), Senongo Akpem
 * [You Are What You Document](http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/), Yevgeniy Brikman
+* [Collaborative Information Architecture](https://www.slideshare.net/AbbyCovert/collaborative-information-architecture-ias17), Abby Covert
 * [Questions I Ask When Reviewing Design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
 * [On Writing Interfaces Well](https://signalvnoise.com/posts/3633-on-writing-interfaces-well), Jonas Downey
 * [A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), Ryan Singer
