@@ -13,6 +13,22 @@
 * Organizing many pieces over time
 * How to structure a thesis
 
+## Clarity
+
+* Learn how to express ideas in a way that others can relate to
+* Learn to be more clear in writing
+* Make my writing readable
+* How to write clearly (thoughts) composition
+* Not getting the meat of the project's concept across
+* Unclear
+* Not expressing clearly
+* To not be able to communicate my point of view
+* Going down the wrong path for too long
+* How to make content attractive but also easy to understand
+* To learn techniques to better express myself
+* Effective ways to document the whole of thesis—ready for a user to read
+* Have a thesis that is easy for people to understand quickly
+
 ## Style, voice, and tone
 
 * Fun style without cheesing it out
