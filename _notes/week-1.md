@@ -26,8 +26,18 @@
 * Going down the wrong path for too long
 * How to make content attractive but also easy to understand
 * To learn techniques to better express myself
+
+## Thesis prep
+
 * Effective ways to document the whole of thesis—ready for a user to read
 * Have a thesis that is easy for people to understand quickly
+* Come up with a thesis topic
+* Fearful about not being able to boil down a topic for thesis
+* Not being able to focus thoughts for thesis
+* Define / decide on ideas
+* Not doing anything meaningful
+* Not knowing what to work on
+* Having one shot at something and fucking it up
 
 ## Style, voice, and tone
 
