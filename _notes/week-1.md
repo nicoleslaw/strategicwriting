@@ -133,6 +133,7 @@
 * Writing tools in design (frameworks)
 * How to write practically
 * Ability to communicate thought and design process in non-repetitive ways
+* How to address questions that have come up with my process that can prompt interaction and ongoing conversation with users
 
 ## Practice
 
@@ -162,6 +163,8 @@
 * Cover letter that is not fake
 * Get faster at writing emails and thank you notes
 * Emails
+* How to cold email and get people impressed with your writing!
+* Use writing (email, text) to build a good relationship
 * Examples of good writing — different forms — cover letters, portfolio, process briefs
 * Project writing
 * Scripts for video
@@ -176,14 +179,15 @@
 
 * Storyteller
 * Creating a story
+* How to tell a good story
 * Fearful about not being able to add emotional value to the writing, making people see what I see
 * To be able to make people see, feel, and understand what I see, feel, and understand
 * How to convey a narrative via an engaging story
 * Capturing and holding attention
 * How to grab attention
-* 
-* 
-* 
+* Writing too sciencey and not narratively enough
+* Impactful writing
+* How to make people feel with my writing
 
 ## Outreach
 
