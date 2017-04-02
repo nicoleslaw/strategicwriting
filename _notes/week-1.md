@@ -36,6 +36,15 @@
 * Boring
 * How to write casually v. formally
 
+## Diction
+
+* The right words to communicate
+* Finding the right words
+* Learn more vocabulary
+* Vocabulary
+* Limitation of vocabulary
+* Invent new words
+
 ## Brevity
 
 * Conciseness
