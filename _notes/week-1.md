@@ -129,9 +129,37 @@
 * How to write practically
 * Ability to communicate thought and design process in non-repetitive ways
 
+## Practice
+
+* Making time / routine for writing
+* Make writing as a daily habit
+* Learn to write regularly
+* Writing about topics that work
+* Build habits
+* Write more
+* Losing interest in what I'm writing
+* Forced writing (length)
+* Producing shitty writing
+* Strategies to overcome writer's block
+* Important but also painful
+* Time consuming
+* Having to read your own shitty writing (out loud)
+* Overcome the fear of writing in English
+* Use writing to be better at being a person
+* Writing fast
+* Having to write all the time
+
 ## Specific types of content
 
 * Cover letters
+* Cover letter
+* Cover letter for different companies
+* Cover letter that is not fake
+* Get faster at writing emails and thank you notes
+* Emails
+* Examples of good writing — different forms — cover letters, portfolio, process briefs
+* Project writing
+* Scripts for video
 
 ## Storytelling
 
