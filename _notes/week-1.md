@@ -12,6 +12,7 @@
 * Edit effectively
 * Organizing many pieces over time
 * How to structure a thesis
+* Modify / refine many times
 
 ## Clarity
 
@@ -42,26 +43,27 @@
 
 ## Style, voice, and tone
 
-* Fun style without cheesing it out
 * Define my voice
 * Changing style and tone
 * Adding voice / character
 * How to use different tones for different topics
 * Writing for web v. academic
-* Write funny jokes
 * Showing my personality through my writing
 * Not finding my voice
 * Stylistic writing skills
 * Not "academic" enough
+* How to write casually v. formally
 * Confusing voice / style
 * Defining my style / voice
 * Tone of writing not right
 * Wrong tone
+* Fun style without cheesing it out
+* Write funny jokes
+* Overusing puns
 * Being boring
 * Boring
 * Boring
 * Boring
-* How to write casually v. formally
 
 ## Diction
 
@@ -111,6 +113,22 @@
 * Working with others to make one piece
 * Collaborative writing
 
+## Process
+
+* Learn how to create a template
+* To use writing as a thinking tool
+* Relying on text when [I] should be communicating visually
+* Relying on writing too much in communicating
+* When to apply text to supplement visual / diagram
+* When to write v. when to sketch
+* Using writing as prototype part of the design process
+* Powerful writing for UX research
+* Learning what design people look for in writing
+* Learning writing in design best practices
+* Writing tools in design (frameworks)
+* How to write practically
+* Ability to communicate thought and design process in non-repetitive ways
+
 ## Specific types of content
 
 * Cover letters
@@ -124,6 +142,5 @@
 * Long readings
 * Homework
 * Forgetting everything
-* Overusing puns
 * Writing something offensive
 
