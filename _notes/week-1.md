@@ -1,5 +1,7 @@
 # Notes: Week 1
 
+A round-up of things people want to learn in this class. I will take a shot at synthesizing these soon.
+
 ## Structure and editing
 
 * Better structure of writing
