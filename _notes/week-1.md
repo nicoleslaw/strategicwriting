@@ -38,6 +38,7 @@
 * Not doing anything meaningful
 * Not knowing what to work on
 * Having one shot at something and fucking it up
+* Thesis - everything
 
 ## Style, voice, and tone
 
@@ -70,6 +71,16 @@
 * Vocabulary
 * Limitation of vocabulary
 * Invent new words
+
+## Grammar
+
+* Better grammar
+* Grammar issues
+* Grammar mistakes
+* Fear of making silly grammar mistakes lol
+* Spelling wrong
+* Fluency
+* Mastering commas
 
 ## Brevity
 
