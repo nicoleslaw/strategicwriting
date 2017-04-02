@@ -74,6 +74,11 @@
 * Limitation of vocabulary
 * Invent new words
 
+## Headlines
+
+* Making a title
+* Better at writing headlines
+
 ## Grammar
 
 * Better grammar
@@ -161,9 +166,35 @@
 * Project writing
 * Scripts for video
 
+## Persuasive writing
+
+* Persuasive writing skills
+* Learn how to be convincing
+* Learn to gauge the appropriate amount of detail for the context
+
 ## Storytelling
 
 * Storyteller
+* Creating a story
+* Fearful about not being able to add emotional value to the writing, making people see what I see
+* To be able to make people see, feel, and understand what I see, feel, and understand
+* How to convey a narrative via an engaging story
+* Capturing and holding attention
+* How to grab attention
+* 
+* 
+* 
+
+## Outreach
+
+* Spreading the word
+* Publicize my work
+* Be good at Twitter
+* 140 character tweet for ideas
+* Tweet! in 140 words
+* Blogging
+* Blogging about process
+* Ensure reader is engaged throughout the entire blog post
 
 ## Everything else
 
