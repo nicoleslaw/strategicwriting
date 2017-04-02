@@ -119,3 +119,11 @@
 
 * Storyteller
 
+## Everything else
+
+* Long readings
+* Homework
+* Forgetting everything
+* Overusing puns
+* Writing something offensive
+
