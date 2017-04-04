@@ -18,6 +18,7 @@ _Useful guides and resources to prepare you for the work ahead._
 * [On Writing Interfaces Well](https://signalvnoise.com/posts/3633-on-writing-interfaces-well), Jonas Downey
 * [A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), Ryan Singer
 * [The Language of Modular Design](http://alistapart.com/article/language-of-modular-design), Alla Kholmatova
+* [How to Write a Thank You Notes](http://www.themorningnews.org/article/how-to-write-a-thank-you-note), Leslie Harpold
 
 ## Design ethics
 * [10 Timeframes](http://contentsmagazine.com/articles/10-timeframes/), Paul Ford
