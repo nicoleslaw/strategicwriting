@@ -50,7 +50,6 @@ Types of content: common misconception is that you have to be super consistent a
 * You’re giving them an amuse-bouche, not an entire menu—don’t try to go over your entire resume.
 
 ## Guest speaker: Robyn Kanner
-******
 
 (Robyn is friends with Victor!)
 @robynkanner
