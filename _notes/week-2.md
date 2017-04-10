@@ -93,7 +93,7 @@ Write around that, by the time you get to design, it becomes super easy.
 
 Flow takes 15 seconds long. Comes from research, knowing the community you’re serving  and working with them
 
-### Beyond mytranshealth
+### Beyond MyTransHealth
 
 * Being able to tell a story through ux has helped me with my writing a lot
 * Wrote for bustle about how a simple act can be dangerous
@@ -154,13 +154,17 @@ Site has all my contact info, but twitter is probably the best way (@robynkanner
 Writing is a first draft, editing is the rest of the work
 I think of the line between writing and editing as being pretty blurry
 
-Biggest tip for editing if you can’t show your work to somebody: read your work aloud
-Helps catch sentences that are clumsy or too long
-Immediately makes it more conversational
-Main takeaway from this class: if you’re not sure how to write it, say it out loud and record it, and write that
-Write things like you would say them in conversation
+Biggest tip for editing if you can’t show your work to somebody: read your work aloud.
+
+* Helps catch sentences that are clumsy or too long
+* Immediately makes it more conversational
+
+Main takeaway from this class: if you’re not sure how to write it, say it out loud and record it, and write that.
+
+Write things like you would say them in conversation.
 
 When reading aloud, think about:
+
 * Is it clear?
 * Is it true?
 * Is it useful?
@@ -178,9 +182,10 @@ Important thing: see each other as a resource. You don’t have to be a writer t
 
 * Find a partner and swap pieces with them.
 * Read their piece, and then read it again slowly.
-*  Don’t start fixing typos or editing while you’re reading. Read the whole thing once through, slowly, then read again and edit. Start high-level, make sure the piece is doing what it is trying to do, then get into the spelling, grammar, etc.
+* Don’t start fixing typos or editing while you’re reading. Read the whole thing once through, slowly, then read again and edit. Start high-level, make sure the piece is doing what it is trying to do, then get into the spelling, grammar, etc.
 
 Ask yourself:
+
 * Does it make sense? Does it flow?
 * Is it useful?
 * Is it interesting?
@@ -188,32 +193,32 @@ Ask yourself:
 
 I encourage you to use your peers in this way as much as you can! Builds trust, makes both your work stronger.
 
-
-
 ## Assignment
 
 1. Spend an hour thinking and writing about your goals. (Go to your quiet happy place! Use tea, wine, whatever else sets you up for good reflection time.  Probably not a laptop exercise.)
 
-* What do you want to do (and not do)?
-* What are you good at?
-* What are your favorite parts of the process?
-* What do you need to do your best work?
-* What do you want to work on in this class to help you get there?
-* If you were to graduate tomorrow, what dream job would you walk into?
-* What do you want to do in this class that might be an input into your thesis?
+  * What do you want to do (and not do)?
+  * What are you good at?
+  * What are your favorite parts of the process?
+  * What do you need to do your best work?
+  * What do you want to work on in this class to help you get there?
+  * If you were to graduate tomorrow, what dream job would you walk into?
+  * What do you want to do in this class that might be an input into your thesis?
 
 Think 6 months to 3 years into the future (5–10 years is too far away!)
 
 2. Choose a final project for this class to help you get there. Some examples:
-* Presentation or essay (what do you want to speak about at a conference?)
-* Mission, process, or internship statement
-* Thesis outline (get a head start! 😱) or project brief (for a project you’ve already done that isn’t getting the writing love it deserves maybe)
-* About page and professional bio (good for portfolio)
+
+  * Presentation or essay (what do you want to speak about at a conference?)
+  * Mission, process, or internship statement
+  * Thesis outline (get a head start! 😱) or project brief (for a project you’ve already done that isn’t getting the writing love it deserves maybe)
+  * About page and professional bio (good for portfolio)
 
 Work on something you’re excited about, and could be useful to get you to where you want to go.
 
 3. Readings:
-* Corn Maze, Pam Houston ← definitely read this, we’re going to do exercise form this in class next week
-* Guidelines for an Adaptive Technology Working Group, Sara Hendren ← a manifesto but this one doesn’t suck (read this too!)
-* Her latest talk at eyeo
-* Resistance, Paul Soulellis (come on, you know you want to read this… or you could watch the talk)
+
+  * Corn Maze, Pam Houston ← definitely read this, we’re going to do exercise form this in class next week
+  * Guidelines for an Adaptive Technology Working Group, Sara Hendren ← a manifesto but this one doesn’t suck (read this too!)
+  * Her latest talk at eyeo
+  * Resistance, Paul Soulellis (come on, you know you want to read this… or you could watch the talk)
