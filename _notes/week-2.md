@@ -56,45 +56,49 @@ Types of content: common misconception is that you have to be super consistent a
 
 “I’m a bad writer”
 
-Was not into writing, was really bad at it, was more into visual design
-Got into band design (making record covers for bands)
-Really interesting way of talking about synaesthesia between music and design
-Watching movies - learned about how they tell stories
-Translated into writing songs and story in song through melody and sounds
-All these different elements of storytelling lead back to writing
+### Background
+
+* Was not into writing, was really bad at it, was more into visual design
+* Got into band design (making record covers for bands)
+* Really interesting way of talking about synaesthesia between music and design
+* Watching movies - learned about how they tell stories
+* Translated into writing songs and story in song through melody and sounds
+* All these different elements of storytelling lead back to writing
 
 I love feelings: talking about them, listening other people talk about them. And I don’t love perfect grammar
 
 I talk on tumblr, a lot
 
+### Making and launching MyTransHealth
+
 1.4 million trans in America, but access to the right healthcare is rare → led to mytranshealth
 
 Connects trans patients with providers that we’ve spoken to
 
-Video: I want you to focus on this being a designed moment, a manipulative moment, a story I’m telling, something I designed.
-
-That’s moment is really interesting thing, we filmed it off the cuff but it connected to a larger group of people.
+[Video](https://www.youtube.com/watch?v=-fN2t5XD2sE): I want you to focus on this being a designed moment, a manipulative moment, a story I’m telling, something I designed. That’s moment is really interesting thing, we filmed it off the cuff but it connected to a larger group of people.
 
 Led to #transhealthfail hashtag on twitter -- telling the story of a macro problem through stories from people’s lives, showing the hundreds of problems with healthcare for trans people through twitter. The $20,000 tweet → the tweet that launched it
 
 Working as a camgirl to make ends meet and raise money for this project, but also accessed a whole community of people like me who i could share the prototype with. Number one feedback: this takes too much time to fill out
 
 Story refined to:
-This is hard / it doesn’t need to be
-How do you identify (affirmation)
-Where do you live (affirmation)
-What time of help do you need (affirmation)
-Results
+
+* This is hard / it doesn’t need to be
+* How do you identify (affirmation)
+* Where do you live (affirmation)
+* What time of help do you need (affirmation)
+* Results
 
 Write around that, by the time you get to design, it becomes super easy.
 
 Flow takes 15 seconds long. Comes from research, knowing the community you’re serving  and working with them
 
-Beyond mytranshealth
-Being able to tell a story through ux has helped me with my writing a lot
-Wrote for bustle about how a simple act can be dangerous
-Being able to influence companies i don’t work for through writing (like article on mic about uber)
-Put it in my portfolio!
+### Beyond mytranshealth
+
+* Being able to tell a story through ux has helped me with my writing a lot
+* Wrote for bustle about how a simple act can be dangerous
+* Being able to influence companies i don’t work for through writing (like article on mic about uber)
+* Put it in my portfolio!
 
 A few years ago i didn’t even want to write, and now writing is part of every bit of my flow
 
