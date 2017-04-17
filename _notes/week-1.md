@@ -1,4 +1,4 @@
-# Notes: Week 1
+# Notes: Week 1: Principles
 
 A round-up of things people want to learn in this class. I will take a shot at synthesizing these soon.
 
