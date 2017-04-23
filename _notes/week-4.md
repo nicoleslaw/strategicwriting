@@ -16,7 +16,7 @@ Go for 10 minutes.
 
 ## Guest speaker: Karyn Campbell, Product Design Lead for Etsy Studio
 
-Writing & Design
+### Writing & Design
 
 > “For me, [writing and design] have been so intertwined, they’re almost like one thing.”
 
@@ -38,6 +38,7 @@ First time in 11 years Etsy has created a sister brand / separate marketplace
 Creating a brand -> Start with voice and tone. Then, you can create visual elements and interaction styles that reinforce how you speak.
 
 Etsy studio example:
+
 * Our voice reflects the making process.
 * It’s quick-witted and uses short sentences.
 * It’s crafted with lots of verbs, so it feels like it’s in constant motion.
