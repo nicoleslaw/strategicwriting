@@ -75,7 +75,7 @@ I don’t know that I succeeded, I think it was really hard, not necessarily a l
 
 #### How do you balance universal (?) design and developing a brand vision?
 
-That’s the ultimate question for a lot of designers: how do you balance bringing new balance to your customers when they’re not asking for it? Jeff Bezos’ letter to shareholders contained a succinct paragraph about this. Our customers never asked for Prime, but we had an intuition that it would bring a lot of value and solve a lot of the problems that they told us they had. Important to listen and feel what problems people are having, let that be a source of inspiration. Stretch yourself, take risks, be open to failure. Leader with more long-term vision gives you more runway to explore bigger things, shorter-term constraints let you iterate faster.
+That’s the ultimate question for a lot of designers: how do you balance bringing new balance to your customers when they’re not asking for it? [Jeff Bezos’s letter to shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) contained a succinct paragraph about this. Our customers never asked for Prime, but we had an intuition that it would bring a lot of value and solve a lot of the problems that they told us they had. Important to listen and feel what problems people are having, let that be a source of inspiration. Stretch yourself, take risks, be open to failure. Leader with more long-term vision gives you more runway to explore bigger things, shorter-term constraints let you iterate faster.
 
 #### How did you come up with Etsy’s voice and tone, because I feel if you get that right everything else falls into place, but how do you start?
 
@@ -89,7 +89,7 @@ Yes, e.g. our voice for Etsy.com is a lot more whimsical, sometimes it’s good 
 
 #### How do you package this work in a way that the team will actually use it?
 
-Goes back to paving your runway… sometimes you have to constantly advocate for this type of work. “This is what our customer really needs.” Easy to get hunkered in our individual life and environments… momentum and gravity contributes to how this is important work to be done. There’s a great online seminar by IDEO called “Internal Storytelling” → how do you really get people to buy in? It’s your job to make sure design has a seat at the table because it really has an effect on the bottom line
+Goes back to paving your runway… sometimes you have to constantly advocate for this type of work. “This is what our customer really needs.” Easy to get hunkered in our individual life and environments… momentum and gravity contributes to how this is important work to be done. There’s a great online seminar by IDEO called “Internal Storytelling” (maybe [this one?](http://www.ideou.com/products/storytelling-for-influence)) → how do you really get people to buy in? It’s your job to make sure design has a seat at the table because it really has an effect on the bottom line
 
 #### Are you constantly testing language as you go?
 
