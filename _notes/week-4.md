@@ -7,6 +7,7 @@ Thanks again to Nour for taking detailed notes during class!
 Think back to the day you applied to SVA.
 
 What have you learned since then?  
+
 ... about design?  
 ... about yourself?
 
