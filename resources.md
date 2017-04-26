@@ -17,6 +17,7 @@ _Useful guides and resources to prepare you for the work ahead._
 * [Questions I Ask When Reviewing Design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
 * [On Writing Interfaces Well](https://signalvnoise.com/posts/3633-on-writing-interfaces-well), Jonas Downey
 * [A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), Ryan Singer
+* [Cardsorting for Brand Attributes](http://appropriateinc.com/downloads/ContentStrategyAtWork_Chapter2Sample.pdf), Margot Bloomstein
 * [The Language of Modular Design](http://alistapart.com/article/language-of-modular-design), Alla Kholmatova
 * [How to Write a Thank You Note](http://www.themorningnews.org/article/how-to-write-a-thank-you-note), Leslie Harpold
 * [Structure](http://www.newyorker.com/magazine/2013/01/14/structure), John McPhee
