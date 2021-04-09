@@ -24,7 +24,7 @@ _Useful guides and resources to prepare you for the work ahead._
 * [Structure](https://www.newyorker.com/magazine/2013/01/14/structure), John McPhee
 
 ## Design ethics
-* [10 Timeframes](https://contentsmagazine.com/articles/10-timeframes//), Paul Ford
+* [10 Timeframes](https://contentsmagazine.com/articles/10-timeframes/), Paul Ford
 * [Slow Ideas](https://www.newyorker.com/magazine/2013/07/29/slow-ideas), Atul Gawande
 * [Investigating Normal: Technology and Ability](https://vimeo.com/134764010), Sara Hendren
 * [The Pitfalls of Trying to Read a Co-Worker’s Mind](https://www.nytimes.com/2016/12/29/business/the-pitfalls-of-trying-to-read-a-co-workers-mind.html), Isaac Lidsky
